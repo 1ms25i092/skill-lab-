@@ -1,0 +1,29 @@
+Prompt 1: Initial Application Generation
+
+Create ResearchMate, an AI-powered research paper assistant for college students.
+
+The application should allow users to enter a research topic, select an academic field and research level, generate research questions, create a structured research paper outline, generate abstracts, suggest research gaps and provide literature review assistance.
+
+Use a clean, responsive academic dashboard design.
+
+Prompt 2: Few-Shot Prompting
+
+Use few-shot prompting to generate consistent academic research assistance.
+
+Example 1:
+Input: Impact of artificial intelligence on education.
+
+Output:
+Research Question: How does AI-assisted learning affect student academic performance?
+Research Direction: Compare traditional and AI-assisted learning.
+Methodology: Comparative study.
+
+Example 2:
+Input: Renewable energy adoption in India.
+
+Output:
+Research Question: What factors influence renewable energy adoption in India?
+Research Direction: Study economic, technological and policy barriers.
+Methodology: Literature review and comparative case studies.
+
+Do not fabricate research papers or citations.
